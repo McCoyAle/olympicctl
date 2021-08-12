@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/McCoyAle/olympicctl/cmd"
+import "olympicctl/cmd"
 
 func main() {
 	cmd.Execute()
